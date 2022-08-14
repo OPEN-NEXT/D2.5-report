@@ -1,0 +1,22 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: D2.5-report
+Upstream-Contact: Pen-Yuan Hsing <https://github.com/penyuan/>
+Source: https://github.com/OPEN-NEXT/D2.5-report/
+
+Files:
+    survey-files/consent information.fodt
+    survey-files/D2.5 dashboard EUSurvey.zip
+    D2.5_Second release of OSD status report dashboard_UBA.fodt
+    README.md
+Copyright: 2022 Pen-Yuan Hsing
+License: CC-BY-SA-4.0
+
+Files: 
+    survey-files/dashboard-survey-results.fods
+Copyright: 2022 Pen-Yuan Hsing
+License: CC-BY-4.0
+
+Files: 
+    .gitignore
+Copyright: 2022 Pen-Yuan Hsing
+License: CC0-1.0
