@@ -1,5 +1,7 @@
 # Open!Next D2.5 report
 
+[![DOI](https://www.zenodo.org/badge/524680990.svg)](https://www.zenodo.org/badge/latestdoi/524680990)
+
 Report for Open!Next WP2 D2.5 deliverable "*Second release of OSD status report dashboard*" in the file `D2.5_Second release of OSD status report dashboard_UBA.fodt`.
 
 ## What will I find in this repository?
