@@ -3,7 +3,7 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/OPEN-NEXT/D2.5-report)](https://api.reuse.software/info/github.com/OPEN-NEXT/D2.5-report) 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6991166.svg)](https://doi.org/10.5281/zenodo.6991166)
 
-Report for Open!Next WP2 D2.5 deliverable "*Second release of OSD status report dashboard*" in the file `D2.5_Second release of OSD status report dashboard_UBA.fodt`.
+Report for [Open!Next](https://opennext.eu/) WP2 D2.5 deliverable "*Second release of OSD status report dashboard*" in the file `D2.5_Second release of OSD status report dashboard_UBA.fodt`.
 
 ## What will I find in this repository?
 
