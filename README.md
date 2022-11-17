@@ -8,6 +8,7 @@ Report for [Open!Next](https://opennext.eu/) WP2 D2.5 deliverable "*Second relea
 ## What will I find in this repository?
 
 * The main report in the file `D2.5_Second release of OSD status report dashboard_UBA.fodt`
+* A presentation about the work in the file `D2.5_Second release of OSD status report dashboard_UBA.pptx`
 * Survey related files and data in the folder `survey-files`
 * Files related to meeting the [REUSE 3.0 specification](https://reuse.software/) for this repository in the folder `.reuse`
 * Git ignore file `.gitignore`
